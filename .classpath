@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/Decoder.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/extentreports-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/extentreports-4.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fillo-1.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/google-api-client-appengine-1.30.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/groovy-2412.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/groovy-json-2412.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/groovy-xml-2412.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gson-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/gson-2.8.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/guava-28.0-jre-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/guava-28.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpclient-4.5.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpclient-453.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpcore-4.4.11 (1).jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpcore-4.4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpcore-6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/httpmime-4.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.mail-api-1.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-core-2.12.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mail-1.4.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ojdbc14-10.2.0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ojdbc8-12.2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.commons.configuration-1.10.LIFERAY-PATCHED-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/poi-ooxml-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/reportng-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/rest-assured-3.0.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/rest-assured-3.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-api-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-java-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-java-client-driver-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-server-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/selenium-support-3.141.59.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/testng-6.14.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/winium-webdriver-0.1.0-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
